@@ -1,0 +1,26 @@
+====== criação de um projeto node =======
+1º - ver a versão isntalada do node na sua máquina -> node -v 
+2º - criar e instalar o node no projeto -> npm init -> Npm é um gerenciador de pacotes que faz parte no Node Js
+3º - Comando para inicializar um projeto node -> npm init
+4º - instalar as dependencias do node -> npm install
+5º - instalar o modulo global de execução do node -> npm install nodemon
+6º - instalar o express -> npm install express
+7º - caso o nodemon não seja reconhecido rodar esse comando -> npm install -g nodemon
+
+==== usuario mongo db ======
+
+usuario : motta_pedro
+senha : Zh7wpxNeopVxdna7
+
+mongodb+srv://motta_pedro:<password>@aula-sabado-api.ztw9r1b.mongodb.net/?retryWrites=true&w=majority
+
+===== comandos npm mongoose =====
+1º  -> npm install mongoose
+
+====== comando dotenv ========
+
+npm install dotenv --save
+
+===== comando para criptogrfar a senha do usuario ======
+
+npm install bcrypt
